@@ -1,2 +1,2 @@
-# Prueba
+# Pruebas
 Esto es una prueba
